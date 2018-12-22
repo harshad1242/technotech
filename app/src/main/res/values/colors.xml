@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e42c2f</color>
+    <color name="colorPrimaryDark">#c21d25</color>
+    <color name="transparentcolor">#4af9f2f2</color>
+    <color name="colorAccent">#fdfaf6</color>
+    <color name="d1purple">#5E1A48</color>
+    <color name="d1gold">#FFC064</color>
+    <color name="d1goldnew">#FFC064</color>
+    <color name="d1white">#FFFFFF</color>
+    <color name="headettitle">#1E495A</color>
+    <color name="headerabove">#1E495A</color>
+    <color name="iconSlider">#FFFFFF</color>
+    <color name="Fonttitle">#FFFFFF</color>
+    <color name="Backgroundslider">#000000</color>
+    <color name="clocktextcolor">#B2C831</color>
+    <color name="colorbackground">#1E495A</color><!--//for rippleview effect-->
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <!-- <color name="colorPrimaryDark">#4432b9</color>-->
+    <color name="textColorPrimary">#FFC300</color>
+    <color name="windowBackground">#5184F1</color>
+    <!--  <color name="colorAccent">#5f50e1</color>-->
+    <color name="colorconfirm">#5184F1</color>
+    <color name="colortext">#021C25</color>
+    <color name="colortile">#333333</color>
+    <color name="colormsgscreenbg">#cccccc</color>
+    <color name="colormsgscreenborder">#7B7B7B</color>
+    <color name="colormsgscreenfont">#000000</color>
+    <color name="colormsgradiobg">#999999</color>
+    <color name="customfix">#07918C</color>
+    <color name="dividerlist">#08364A</color>
+    <color name="dividerlistreminder">#D0D0D0</color>
+    <color name="reminderfont">#4E6E7B</color>
+    <color name="lockcolor">#04FF00</color>
+    <color name="unlockcolor">#FE0000</color>
+    <color name="modifybg">#F4F454</color>
+    <color name="pendingbg">#FF5500</color>
+    <color name="senderidsitembg">#ECECEC</color>
+    <color name="rippelColor">#0099CC</color>
+    <color name="white">#ffffff</color>
+    <color name="indicator_1">#10c7bb</color>
+    <color name="indicator_2">#10c7bb</color>
+    <color name="indicator_3">#10c7bb</color>
+    <color name="indicator_4">#10c7bb</color>
+    <color name="tranprent_red">#adef0515</color>
+    <color name="tranperent_gold">#a6ffc064</color>
+    <color name="finestWhite">#FFFFFF</color>
+    <color name="finestGray20">#33D2D2D2</color>
+
+</resources>

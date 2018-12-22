@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+    android:layout_margin="5dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        app:cardElevation="10dp"
+        android:id="@+id/ly_card"
+        app:cardCornerRadius="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:clipToPadding="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/ll">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <com.mikhaellopez.circularimageview.CircularImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    app:civ_border_color="#ffffff"
+                    app:civ_shadow="true"
+                    app:civ_shadow_radius="2"
+                    android:elevation="100dp"
+                    app:civ_shadow_color="@color/d1gold"
+                    android:id="@+id/set_icon"
+                    android:src="@mipmap/ic_launcher"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="5dp"
+                    android:id="@+id/txt_name"
+                    android:text="Vendors name"
+                    android:textColor="@color/colorPrimary"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@mipmap/ic_launcher"
+                    android:id="@+id/ImageView_image"
+                    />
+            </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="end"
+        android:gravity="end"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Follow"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:paddingLeft="@dimen/slider"
+            android:paddingRight="@dimen/slider"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/txt_follow"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Share"
+            android:layout_marginLeft="10dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:paddingLeft="@dimen/slider"
+            android:paddingRight="@dimen/slider"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/txt_share"/>
+    </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

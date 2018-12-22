@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">TechnoTech</string>
+    <string name="version">Version 3.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_banner">AddBannerActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna tortor, semper eu feugiat eu, vehicula vitae lacus.</string>
+    <string name="recyclerview_fab_example">RecyclerView FAB example</string>
+    <string name="floating_action_menu">Floating Action Menu</string>
+    <string name="lorem_ipsum_large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ultricies risus. Integer nisi orci, lacinia sit amet mi in, mollis scelerisque purus. Nunc risus ligula, maximus eu orci a, facilisis dictum velit. Proin nec laoreet magna. Nulla ut sagittis lorem. Morbi id enim fermentum, semper diam et, tempus leo. Aliquam vel congue orci. Suspendisse potenti. Curabitur finibus diam augue, vel bibendum sapien ultrices non.</string>
+    <string name="navigation_drawer_open">Navigation open</string>
+    <string name="navigation_drawer_close">Navigation close</string>
+    <string name="branch_activity">Branches</string>
+    <string name="contactinfo">Contact Information</string>
+    <string name="productservice">Products / Services</string>
+    <string name="catelogue">Catelogue</string>
+    <string name="offer">Current Offers</string>
+    <string name="registeractivity">Register Your Business</string>
+
+    <string name="nointernet">No Internet Connection!</string>
+
+    <!--  kiran-->
+    <string name="uservalidation">Please enter an e-mail address.</string>
+    <string name="passwordvalidation">Please enter a password.</string>
+    <string name="invalidotp">The verification code that you have entered is invalid.</string>
+    <string name="validemail">The email address that you have entered is invalid.</string>
+    <string name="enterotpnumber">We have emailed a verification code to the e-mail address that you have provide. Please enter the verification code below.
+</string>
+    <string name="enternewpassword"> Please enter your new password.</string>
+    <string name="enterconfirmpassword">Confirm Password field cannot be blank.</string>
+    <string name="passwordinvalid">Password confirmation doesnot match password.</string>
+    <string name="selectanyone">Please add a liinks.</string>
+
+
+    <string name="product_activity">Product</string>
+    <string name="banner_activity">Banner</string>
+    <string name="catlog_activity">Catlogue</string>
+    <string name="title_activity_add_social">Social Link</string>
+    <string name="title_activity_add_follower">Follower List</string>
+    <string name="Offer_activity">Offers</string>
+
+    <!--Directory Names-->
+    <string name="dirSettings">Settings</string>
+    <string name="dirMedia">Media</string>
+    <string name="dirImages">Images</string>
+    <string name="dirVideos">Videos</string>
+    <string name="withtext">WithText</string>
+    <string name="withouttext">WithoutText</string>
+    <string name="openinghours">Edit Business Hours</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <string name="banner_home_footer">ca-app-pub-4004822577133155/5967940628</string>
+    <string name="interstitial_full_screen">ca-app-pub-4004822577133155/5550968222</string>
+
+
+    <string name="invitation_title">Wanna Biz Easy?</string>
+    <string name="invitation_message">I experienced one new app.And it is very useful app for you also.</string>
+    <string name="invitation_cta">GET BIZEE</string>
+    <string name="deep_link">http://72.249.170.12/FileServer/Bizee.apk</string>
+    <string name="enteryouraadddress">Please  enter  an address.</string>
+    <string name="selectyourcity">Please select a city.</string>
+    <string name="enteryourpassword">Please enter a password.</string>
+    <string name="enteryourstate">Please enter a state.</string>
+    <string name="contactnumbertendigit">Please enter your contact number.</string>
+    <string name="officenonull">Please enter a office number.</string>
+    <string name="pincodenull">Please enter a pincode.</string>
+    <string name="businesstypenull">Please select a business type.</string>
+    <string name="enteremail">Please enter an e-mail address.</string>
+    <string name="enterlogoimage">Please enter Logo Image.</string>
+    <string name="enterbannerlogo">Please enter banner\'s Image.</string>
+    <string name="productnamenull">Please enter product name.</string>
+    <string name="productprice">Amount should be entered in numbers only.</string>
+    <string name="descriptionnull">Please enter product description.</string>
+    <string name="productcodenull">Amount should be entered in numbers only.</string>
+
+
+    <string name="title_activity_main">DateTimePicker Example</string>
+    <string name="selected_time">The time you picked will be shown here.</string>
+    <string name="selected_date">The date you picked will be shown here.</string>
+    <string name="selected_datetime">The date and time you picked will be shown here.</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_datetime">Pick Date+Time</string>
+    <string name="mode_24_hours">Use 24 hour mode</string>
+    <string name="mode_dark">Use dark theme</string>
+    <string name="mode_custom_accent">Use custom accent</string>
+    <string name="vibrate">Vibrate on touch</string>
+    <string name="dismiss">Dismiss on pause (eg: orientation change)</string>
+    <string name="title">Show a title</string>
+    <string name="show_version_2">Use marshmallow layout</string>
+    <string name="show_year_first">Show the year picker first</string>
+    <string name="enable_seconds">Show seconds picker</string>
+    <string name="enable_minutes">Show minutes picker</string>
+    <string name="limit_times">Limit selectable times</string>
+    <string name="limit_dates">Limit selectable dates</string>
+    <string name="disable_dates">Disable specific dates</string>
+    <string name="highlight_dates">Highlight certain dates</string>
+
+    <string name="tab_title_time">Time</string>
+    <string name="tab_title_date">Date</string>
+    <string name="tab_title_datetime">Date+Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
